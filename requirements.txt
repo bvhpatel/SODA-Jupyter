@@ -1,5 +1,4 @@
 numpy
 ipywidgets
 pandas
-os
 IPython
