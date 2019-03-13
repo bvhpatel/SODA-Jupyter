@@ -1,6 +1,5 @@
 numpy
 ipywidgets
 pandas
-pathlib
 os
 IPython
